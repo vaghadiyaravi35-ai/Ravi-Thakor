@@ -1,0 +1,6 @@
+{
+  "name": "Kheti Baadi",
+  "description": "भारतीय गाँव फ़ार्मिंग, डेयरी, ट्रैक्टर, मंडी एवं जीवन सिमुलेटर गेम (Indian Village Farming & Life Simulation)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
